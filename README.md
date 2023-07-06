@@ -1,2 +1,2 @@
 # Coding_Together
-A github demo
+A github demo that we are working on together
